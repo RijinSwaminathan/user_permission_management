@@ -127,3 +127,23 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/user/migrations/0001_initial.py
+.idea/.gitignore
+.idea/Credicxo.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+manage.py
+requirements.txt
+response/
+templates/
+user/__init__.py
+user/admin.py
+user/apps.py
+user/migrations/__init__.py
+user/models.py
+user/serializers.py
+user/tests.py
+user/urls.py
+user/views.py
